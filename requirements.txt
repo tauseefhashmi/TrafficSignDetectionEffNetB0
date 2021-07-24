@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 click==6.7
 Flask==0.12.2
 tensorflow
@@ -30,5 +29,4 @@ uvicorn
 aiofiles
 python-multipart
 jinja2
->>>>>>> 1ac5d0c738240db8a91600c1055a3b370f920d51
 tensorflow-cpu
