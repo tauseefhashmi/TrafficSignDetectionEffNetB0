@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 click==6.7
 Flask==0.12.2
 tensorflow
@@ -13,4 +14,21 @@ uvicorn
 aiofiles
 python-multipart
 jinja2
+=======
+click==6.7
+Flask==0.12.2
+tensorflow
+pandas
+sklearn
+matplotlib
+numpy==1.19.5
+keras_nightly==2.5.0.dev2021032900
+fastapi==0.67.0
+keras==2.4.3
+Pillow==8.3.1
+uvicorn
+aiofiles
+python-multipart
+jinja2
+>>>>>>> 1ac5d0c738240db8a91600c1055a3b370f920d51
 tensorflow-cpu

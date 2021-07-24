@@ -10,7 +10,11 @@ Original file is located at
 
 ###Import the Libraries and Functions.
 """
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 1ac5d0c738240db8a91600c1055a3b370f920d51
 from google.colab import drive
 drive.mount('/gdrive')
 
