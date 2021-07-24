@@ -1,2 +1,2 @@
 # TrafficSignClassification
-Traffic Sign Classification using EfficientNet
+Traffic Sign Classification using EfficientNetB0

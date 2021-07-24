@@ -8,7 +8,6 @@ import numpy as np
 #load the trained model to classify sign
 from tensorflow.keras.models import load_model
 
-
 model = load_model('D:\Analytics-4\Codes\Traffic_classifier.h5')
 #dictionary to label all traffic signs class.
 classes = { 1:'Speed limit (20km/h)',
