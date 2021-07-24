@@ -1,1 +1,1 @@
-web: gunicorn -k flask_sockets.worker GUI:app
+web: gunicorn -k tkinter.worker GUI:app
