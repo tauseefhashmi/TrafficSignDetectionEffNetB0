@@ -1,1 +1,1 @@
-web: uvicorn GUI:app --host=0.0.0.0 --port=${PORT:-5000}
+web: gunicorn -k flask_sockets.worker GUI:app
